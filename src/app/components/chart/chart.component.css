@@ -1,0 +1,21 @@
+#divChart{
+    width: 400px;
+    height: auto;
+    border: 1.5px solid grey;
+    border-radius: 2rem;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    margin: 20px;
+    transition: all 1s ease-in-out;
+    box-shadow:
+    8.5px 4.5px 11.6px rgba(0, 0, 0, 0.089),
+    28.6px 15.2px 39.1px rgba(0, 0, 0, 0.131),
+    128px 68px 175px rgba(0, 0, 0, 0.22)
+    ;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
